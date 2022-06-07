@@ -21,6 +21,7 @@
       android:name="expo.modules.devlauncher.launcher.errors.DevLauncherErrorActivity"
       android:screenOrientation="portrait"
       android:theme="@style/Theme.DevLauncher.ErrorActivity"
+      android:exported="false"
       />
   </application>
 
